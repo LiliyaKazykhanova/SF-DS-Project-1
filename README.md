@@ -1,5 +1,4 @@
 # SF-DS-Project-1
-From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scientist)
 ## Проект 1. Анализ вакансий на hh.ru
 Ссылка для загрузки датасета: https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1RklOSUpvnQ-d4hfsIV17YVjHycbXTwbF
 
